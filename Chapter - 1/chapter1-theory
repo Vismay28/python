@@ -21,4 +21,4 @@ for example:
 name = input("Enter your name: ")
 print("Hello", name)
 
-📌(input method always returns a string, so might need to convert as per usecase or to perform calculations)
+📌(input method always returns a string, so might need to convert as per use case or to perform calculations)
