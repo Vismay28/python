@@ -1,4 +1,4 @@
-# Assignement: Take diameter as input and calculate the area of a circle
+# Assignment: Take diameter as input and calculate the area of a circle
 
 pi = 3.14159
 diameter = float(input("Please enter the diameter of the circle: "))

@@ -1,16 +1,16 @@
 Python code runs line by line (interpreter based) (interpreter - human language to byte code translator)
-Its excuted by PVM (pythin virtual machine)
+Its executed by PVM (pythin virtual machine)
 
 
 🟡 Variables and Memory Concept
 
-python automatically decides type, can directly take a vairable and assign a value to it
+python automatically decides type, can directly take a variable and assign a value to it
 for example: 
 x = 10
 name = "my-name"
 
 Variables naming conventions
-✅ : age, age1, age_1, _age, a1g1e1 (start with alphabet or underscore, underscore or numric allowed after an alphabet)
+✅ : age, age1, age_1, _age, a1g1e1 (start with alphabet or underscore, underscore or numeric allowed after an alphabet)
 ❌ : @ge, 1age, 1_age (No starting with numbers, no inclusion of special characters) 
 
 
